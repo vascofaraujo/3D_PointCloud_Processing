@@ -1,1 +1,1 @@
-Run with runPiv.m
+Run with runpiv.m
